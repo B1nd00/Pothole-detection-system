@@ -8,4 +8,5 @@ an Ultrasonic sensor and a GPS receiver is used to get the current location of t
 This information about the pothole is then stored in the database
 
 
+The php files design a Database and the .ino files read values from Ultrasound, GPS and communicate with GSM to upload values to the server and read the values to display on LCD.
 
